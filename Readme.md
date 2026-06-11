@@ -2,4 +2,4 @@
 
 Mechatronics Engineer
 
-status: Undergrade
+status: Undergrad
